@@ -18,3 +18,6 @@ Por ultimo creamos un super usuario
 
 `docker-compose run web python manage.py createsuperuser`
 
+# Contribuyentes
+
+- Reinid Valarino
